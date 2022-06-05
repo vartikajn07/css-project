@@ -9,3 +9,4 @@ https://chrome.google.com/webstore/detail/pesticide-for-chrome-with/neonnmencpne
 https://www.w3schools.com/cssref/css_default_values.asp  
 https://developer.mozilla.org/en-US/docs/Web/CSS/border-style  
 https://www.w3schools.com/css/css_text.asp  
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
